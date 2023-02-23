@@ -1,0 +1,3 @@
+C:/GraProgramowanie/cmake-build-debug/CMakeFiles/GraProgramowanie.dir
+C:/GraProgramowanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GraProgramowanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

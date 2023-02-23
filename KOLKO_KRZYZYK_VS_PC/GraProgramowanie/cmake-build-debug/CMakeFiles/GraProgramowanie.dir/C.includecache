@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GraProgramowanie/Kolko_Krzyzyk.c
+funkcje.h
+C:/GraProgramowanie/funkcje.h
+
+C:/GraProgramowanie/definicje.h
+
+C:/GraProgramowanie/funkcje.h
+stdio.h
+-
+stdlib.h
+-
+definicje.h
+C:/GraProgramowanie/definicje.h
+math.h
+-
+
